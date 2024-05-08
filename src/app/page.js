@@ -7,8 +7,8 @@ const page=()=>{
 
   return(
     <div>
-        Superman
-    </div>
+        
+    </div
   )
 }
 
