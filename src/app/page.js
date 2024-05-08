@@ -7,7 +7,7 @@ const page=()=>{
 
   return(
     <div>
-        HomePage
+        Superman
     </div>
   )
 }
