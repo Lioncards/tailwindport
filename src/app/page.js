@@ -7,7 +7,7 @@ const page=()=>{
 
   return(
     <div>
-        
+        <h2 className="text-white">This is the beginning</h2>
     </div>
   )
 }
