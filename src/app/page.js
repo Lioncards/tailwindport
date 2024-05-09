@@ -6,10 +6,10 @@ import { useState } from "react"
 const page=()=>{
 
   return(
-    <div>
+    <div className="bg-white text-black p-7">
         <div className="flex">
           <h3>Logo</h3>
-          <ul className="ml-auto flex gap-5">
+          <ul className="ml-auto flex gap-7">
             <li>About</li>
             <li>Work</li>
             <li>Contact</li>
