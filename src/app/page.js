@@ -7,7 +7,14 @@ const page=()=>{
 
   return(
     <div>
-        <h2 className="text-white">This is the beginning</h2>
+        <div className="flex">
+          <h3>Logo</h3>
+          <ul className="ml-auto flex gap-5">
+            <li>About</li>
+            <li>Work</li>
+            <li>Contact</li>
+          </ul>
+        </div>
     </div>
   )
 }
