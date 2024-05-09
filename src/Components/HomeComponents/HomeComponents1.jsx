@@ -18,7 +18,7 @@ const HomeComponents1=()=>{
           </ul>
         </div>
 
-        <div className="grid grid-cols-2 gap-12 py-16 px-3">
+        <div className="grid grid-cols-2 gap-12 pt-16 pb-5 px-10">
           <div className="w-full justify-center flex flex-col">
             <p className="font-medium text-lg">Branding | Image making</p>
             <h2 className="text-7xl pt-7 font-semibold">Visual Designer</h2>
